@@ -16,4 +16,4 @@ Esta es mi configuración personal de Emacs. Está diseñada para ser ligera, r�
 2. Respalda tu `~/.emacs.d` actual: `mv ~/.emacs.d ~/.emacs.d.bak`
 3. Clona este repositorio:
    ```bash
-   git clone [https://github.com/CodigoPeraza/jpmacs.git](https://github.com/CodigoPeraza/jpmacs.git) ~/.emacs.d
+   git clone [https://github.com/CodigoPeraza/jpmacs.git] (https://github.com/CodigoPeraza/jpmacs.git) ~/.emacs.d
