@@ -2,6 +2,8 @@
 
 Esta es mi configuración personal de Emacs. Está diseñada para ser ligera, rápida y enfocada en el desarrollo de C, Java y Flutter, usando una filosofía "modal" moderna (sin modos).
 
+![Demo de jpmacs](assets/demo.png)
+
 ## Características
 
 * **UI Moderna:** `doom-modeline`, `treemacs` y tema `gruvbox` con iconos.
